@@ -1,1 +1,4 @@
-import { init, exit } from "myPackage";
+
+import { init, exit } from "./myPackage";
+
+init()
