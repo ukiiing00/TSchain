@@ -1,0 +1,12 @@
+{
+    "include": [
+        "src"
+    ],
+    "compilerOptions": {
+        "outDir": "build",
+        "target": "ES6",
+        "moduleResolution": "Node",
+        "lib": ["ES6","DOM",],
+        "strict": true,
+    }
+}
